@@ -1,0 +1,15 @@
+*.pyc
+aa.py
+downloader.py
+full_title_set
+iutopia.sqlite
+main.muse
+main_one_on_day.py
+moviee.py
+RCS
+study.py
+title_set
+
+.ropeproject
+container/*.muse
+container/*.html

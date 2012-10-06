@@ -1,0 +1,12 @@
+
+Requirements
+============
+
+ - lxml
+ - PyQt4
+
+
+Optional
+--------
+
+ - BeautifulSoup

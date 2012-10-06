@@ -1,0 +1,13 @@
+*~
+*.pyc
+*.sqlite
+full_title_set
+title_set
+*.muse
+RCS
+.ropeproject
+study.py
+img.jpg
+imgtest.jpg
+aa.py
+moviee.py

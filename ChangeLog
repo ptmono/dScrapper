@@ -1,0 +1,32 @@
+2011-11-23  ptmono  <ptmono@gmail.com>
+
+	* main.py: TypeError fixed.
+
+2011-11-23  ptmono  <ptmono@naver.com>
+
+	* main.py: TypeError fixed.
+
+2011-11-07  ptmono  <ptmono@naver.com>
+
+	* main.py: Solved using hangle in email.mime.text.MIMEText
+
+2011-11-06  ptmono  <ptmono@naver.com>
+
+	* main.py:
+	I write ReporterBase class. It is commonly used for reporters.
+
+2011-11-04  ptmono  <ptmono@naver.com>
+
+	* main.py: Added
+	 - error to mail
+
+2011-11-03  ptmono  <ptmono@naver.com>
+
+	* sfilter.py: New file.
+
+2011-10-17  ptmono  <ptmono@naver.com>
+
+	* main.py: This is prototype of the purpose.
+
+	* main.py: New file.
+

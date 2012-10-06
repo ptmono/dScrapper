@@ -1,0 +1,3 @@
+ - 1210061636 A stuff to able/disable for containers
+ - 1210061637 Add debugging message during parsing
+ - 1210061649 Add intelligent facility 
